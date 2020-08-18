@@ -1,8 +1,7 @@
 # 08P_COVID19_Data_Analysis_Using_Python
 Data Analysis on COVID19 dataset, published by John Hopkins University
 
-![img](https://www.tibco.com/blog/wp-content/uploads/2020/03/TIBCOAnalysisCOVID-19-1.png)
-
+<img src="https://www.tibco.com/blog/wp-content/uploads/2020/03/TIBCOAnalysisCOVID-19-1.png" width="500" height="600">
 
 ### Task 1: Introduction
 - Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis.
