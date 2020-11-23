@@ -3,8 +3,6 @@
 [![made-with-Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](http://commonmark.org)
 
 # COVID19_Data_Analysis_Using_Python
-Data Analysis on COVID19 dataset, published by John Hopkins University
-
 <p align='center'>
   <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg''></a>
 </p>
