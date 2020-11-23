@@ -4,7 +4,7 @@
 
 # COVID19_Data_Analysis_Using_Python
 <p align='center'>
-  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg''></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg'></a>
 </p>
  
 In this Project we are going to work with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Also we have __another dataset__ consist of various life factors, scored by the people living in each country around the globe.  We are going to merge these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.  
@@ -16,9 +16,9 @@ In this Project we are going to work with COVID19 dataset, published by John Hop
 
 ## Objectives
 
-- Learn the steps, needed to be taken to prepare your data sources for an analysis
-- Learn how to look at your data to find a good measure to establish your analysis based upon 
-- Learn to visualize the result of your analysis 
+- Learn the steps, needed to be taken to prepare our data sources for an analysis.
+- Learn how to look at our data to find a good measure to establish our analysis based upon. 
+- Learn to visualize the result of our analysis. 
 
 ### :heavy_check_mark: Task 1: Introduction
 - Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis.
