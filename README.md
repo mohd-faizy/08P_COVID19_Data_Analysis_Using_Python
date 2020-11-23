@@ -1,8 +1,8 @@
-# 08P_COVID19_Data_Analysis_Using_Python
+# COVID19_Data_Analysis_Using_Python
 Data Analysis on COVID19 dataset, published by John Hopkins University
 
 <p align='center'>
-  <a href="#"><img src= 'https://image.cnbcfm.com/api/v1/image/106448904-158448331884720200317_world_map_1800-01.png?v=1584483493' width = 800 height = 500'></a>
+  <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.jpeg''></a>
 </p>
 ### Task 1: Introduction
 - Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis.
