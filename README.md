@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![made-with-Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](http://commonmark.org)
 
-# __COVID19_Data_Analysis_Using_Python__
+# __COVID19 Data Analysis Using Python__
 <p align='center'>
   <a href="#"><img src= 'https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python/blob/master/Proj_img/head.png?raw=true'></a>
 </p>
