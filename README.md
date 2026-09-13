@@ -1,3 +1,9 @@
+# __COVID-19 Data Analysis & Geospatial Visualization Using Python__
+
+<p align='center'>
+  <a href="#"><img src='./assets/banner.png' alt='COVID-19 Data Analysis Banner' width='100%'></a>
+</p>
+
 <div align="center">
 
 <!-- Core Runtime & Environment -->
@@ -22,11 +28,7 @@
 
 </div>
 
-# __COVID-19 Data Analysis & Geospatial Visualization Using Python__
 
-<p align='center'>
-  <a href="#"><img src='./assets/banner.png' alt='COVID-19 Data Analysis Banner' width='100%'></a>
-</p>
 
 An empirical epidemiological and geospatial visualization investigation examining the worldwide trajectory and transmission dynamics of **COVID-19** using official surveillance data from the **Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)** spanning the complete 3-year global pandemic horizon (January 2020 through March 2023). 
 
