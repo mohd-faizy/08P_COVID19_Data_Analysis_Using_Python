@@ -1,6 +1,26 @@
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/)
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![made-with-Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](http://commonmark.org)
+<div align="center">
+
+<!-- Core Runtime & Environment -->
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Lab%20%2F%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![uv](https://img.shields.io/badge/uv-Package%20Manager-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)](https://docs.astral.sh/uv/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Repo Size](https://img.shields.io/github/repo-size/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/mohd-faizy/08P_COVID19_Data_Analysis_Using_Python)
+
+<!-- Data Science & Analytical Computation -->
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Vector%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Testing-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-OLS%20Regression-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org/)
+
+<!-- Data Visualization & Geospatial Mapping -->
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Publication%20Charts-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c72b0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Choropleths-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![Data Source: JHU CSSE](https://img.shields.io/badge/Data-Johns%20Hopkins%20CSSE-002D72?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/CSSEGISandData/COVID-19)
+[![Data Source: UN WHR](https://img.shields.io/badge/Data-UN%20World%20Happiness-009EDB?style=for-the-badge&logo=unitednations&logoColor=white)](https://worldhappiness.report/)
+
+</div>
 
 # __COVID-19 Data Analysis & Geospatial Visualization Using Python__
 
